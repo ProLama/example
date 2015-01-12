@@ -1,2 +1,2 @@
 # example
-Sample project
+Sample project :)
